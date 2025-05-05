@@ -1,0 +1,11 @@
+commit 9f0a185747cc238b75a9d05c4148cd57bd2830cf
+Author: arethedc <delacruzrd774@gmail.com>
+Date:   Mon May 5 01:46:49 2025 +0000
+
+    Networking notes
+
+commit b698564ac8e3ccd7589c44e6677bbb70fa32eba1
+Author: arethedc <delacruzrd774@gmail.com>
+Date:   Mon May 5 01:39:24 2025 +0000
+
+    Initital commmit with README
