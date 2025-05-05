@@ -1,0 +1,5 @@
+total 12
+-rw-rw-r-- 1 devasc devasc  22 May  5 03:05 issue_summary.txt
+-rw-rw-r-- 1 devasc devasc  22 May  5 03:08 lab_quiz_ReynaldoII.rip
+-rw-rw-r-- 1 devasc devasc 124 May  5 02:51 network_issue.txt
+-rw-rw-r-- 1 devasc devasc   0 May  5 03:08 permissions.txt
