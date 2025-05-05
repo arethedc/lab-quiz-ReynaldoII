@@ -1,0 +1,6 @@
+5 common networking problems
+1. Slow internet speed
+2. Weak WI-FI Signals
+3. IP Address Conflicts
+4. DNS Issue
+5. Networking Outages
